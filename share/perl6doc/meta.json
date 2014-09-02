@@ -1,0 +1,15 @@
+{
+   "topic" : "[\"geek\",\"programming\",\"sysadmin\"]",
+   "perl_module" : "DDG::Fathead::Perl6Doc",
+   "icon_url" : "/i/www.doc.perl6.org.ico",
+   "status" : "live",
+   "name" : "Perl6Doc",
+   "example_query" : "perl 6 str",
+   "other_queries" : "[\"Str.rindex\",\"Int.div perl6\"]",
+   "description" : "Perl 6 reference",
+   "repo" : "fathead",
+   "src_name" : "Perl 6 Documentation",
+   "id" : "perl6doc",
+   "dev_milestone" : "live",
+   "code" : "[\"lib/DDG/Fathead/Perl6Doc.pm\",\"t/Perl6Doc.t\"]"
+}

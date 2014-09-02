@@ -1,0 +1,15 @@
+{
+   "topic" : "[\"geek\",\"sysadmin\",\"special_interest\"]",
+   "perl_module" : "DDG::Fathead::ArchPkgs",
+   "icon_url" : "/i/www.archlinux.org.ico",
+   "status" : "live",
+   "name" : "ArchPkgs",
+   "example_query" : "arch awesome",
+   "other_queries" : "[\"pacman rxvt\",\"gcc arch package\",\"nmap arch linux package\",\"arch linux firefox\"]",
+   "description" : "Arch Linux packages",
+   "repo" : "fathead",
+   "src_name" : "Arch Linux",
+   "id" : "arch_pkgs",
+   "dev_milestone" : "live",
+   "code" : "[\"lib/DDG/Fathead/ArchPkgs.pm\",\"t/ArchPkgs.t\"]"
+}

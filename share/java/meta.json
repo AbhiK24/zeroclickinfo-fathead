@@ -1,0 +1,15 @@
+{
+   "topic" : "[\"programming\"]",
+   "perl_module" : "DDG::Fathead::Java",
+   "icon_url" : "https://duckduckgo.com/i/www.oracle.com.ico",
+   "status" : "live",
+   "name" : "Java",
+   "example_query" : "",
+   "other_queries" : "[\"\"]",
+   "description" : "Java reference",
+   "repo" : "fathead",
+   "src_name" : "Java docs",
+   "id" : "java",
+   "dev_milestone" : "live",
+   "code" : "[\"lib/DDG/Fathead/Java.pm\",\"t/Java.t\"]"
+}

@@ -1,0 +1,15 @@
+{
+   "topic" : "[\"geek\",\"sysadmin\"]",
+   "perl_module" : "DDG::Fathead::UnixMan",
+   "icon_url" : "/i/www.linuxcommand.org.ico",
+   "status" : "live",
+   "name" : "UnixMan",
+   "example_query" : "man nmap",
+   "other_queries" : "[\"wc man\"]",
+   "description" : "UNIX man page reference",
+   "repo" : "fathead",
+   "src_name" : "LinuxCommand.org",
+   "id" : "unix_man",
+   "dev_milestone" : "live",
+   "code" : "[\"lib/DDG/Fathead/UnixMan.pm\",\"t/UnixMan.t\"]"
+}
