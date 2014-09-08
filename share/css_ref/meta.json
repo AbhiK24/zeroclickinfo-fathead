@@ -1,7 +1,7 @@
 {
    "topic" : [
-      "other / special interest",
-      "code & hacking"
+      "code & hacking",
+      "special interest"
    ],
    "perl_module" : "DDG::Fathead::CssRef",
    "icon_url" : "/i/developer.mozilla.org.ico",

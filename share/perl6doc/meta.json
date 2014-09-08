@@ -1,8 +1,7 @@
 {
    "topic" : [
-      "other / special interest",
       "code & hacking",
-      "code & hacking"
+      "special interest"
    ],
    "perl_module" : "DDG::Fathead::Perl6Doc",
    "icon_url" : "/i/www.doc.perl6.org.ico",

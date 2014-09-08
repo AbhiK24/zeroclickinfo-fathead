@@ -1,8 +1,7 @@
 {
    "topic" : [
-      "other / special interest",
       "code & hacking",
-      "other / special interest"
+      "special interest"
    ],
    "perl_module" : "DDG::Fathead::FirefoxAboutConfig",
    "icon_url" : "/i/mozillazine.org.ico",
