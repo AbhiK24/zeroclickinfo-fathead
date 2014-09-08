@@ -1,15 +1,26 @@
 {
-   "topic" : "[\"geek\",\"sysadmin\",\"special_interest\"]",
+   "topic" : [
+      "other / special interest",
+      "code & hacking",
+      "other / special interest"
+   ],
    "perl_module" : "DDG::Fathead::FirefoxAboutConfig",
    "icon_url" : "/i/mozillazine.org.ico",
    "status" : "live",
    "name" : "FirefoxAboutConfig",
    "example_query" : "firefox keyword.url",
-   "other_queries" : "[\"bidi.numeral\",\"browser.cache.disk.capacity about:config\",\"plugin.scan.plid.all firefox config\"]",
+   "other_queries" : [
+      "bidi.numeral",
+      "browser.cache.disk.capacity about:config",
+      "plugin.scan.plid.all firefox config"
+   ],
    "description" : "Firefox about:config information",
    "repo" : "fathead",
    "src_name" : "MozillaZine",
    "id" : "firefox_about_config",
    "dev_milestone" : "live",
-   "code" : "[\"lib/DDG/Fathead/FirefoxAboutConfig.pm\",\"t/FirefoxAboutConfig.t\"]"
+   "code" : [
+      "lib/DDG/Fathead/FirefoxAboutConfig.pm",
+      "t/FirefoxAboutConfig.t"
+   ]
 }

@@ -1,15 +1,24 @@
 {
-   "topic" : "[\"geek\",\"programming\"]",
+   "topic" : [
+      "other / special interest",
+      "code & hacking"
+   ],
    "perl_module" : "DDG::Fathead::TclRef",
    "icon_url" : "/i/www.tcl.tk.ico",
    "status" : "live",
    "name" : "TclRef",
    "example_query" : "tcl tclsh",
-   "other_queries" : "[\"tcl tk\",\"tk split\"]",
+   "other_queries" : [
+      "tcl tk",
+      "tk split"
+   ],
    "description" : "Tcl/Tk reference",
    "repo" : "fathead",
    "src_name" : "Tcl Developer Xchange",
    "id" : "tcl_ref",
    "dev_milestone" : "live",
-   "code" : "[\"lib/DDG/Fathead/TclRef.pm\",\"t/TclRef.t\"]"
+   "code" : [
+      "lib/DDG/Fathead/TclRef.pm",
+      "t/TclRef.t"
+   ]
 }

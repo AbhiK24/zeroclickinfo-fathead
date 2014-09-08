@@ -1,15 +1,23 @@
 {
-   "topic" : "[\"geek\",\"web_design\"]",
+   "topic" : [
+      "other / special interest",
+      "code & hacking"
+   ],
    "perl_module" : "DDG::Fathead::CssRef",
    "icon_url" : "/i/developer.mozilla.org.ico",
    "status" : "live",
    "name" : "CssRef",
    "example_query" : "text-align css",
-   "other_queries" : "[\"css background-color\"]",
+   "other_queries" : [
+      "css background-color"
+   ],
    "description" : "CSS reference",
    "repo" : "fathead",
    "src_name" : "Mozilla Developer Network",
    "id" : "css_ref",
    "dev_milestone" : "live",
-   "code" : "[\"lib/DDG/Fathead/CssRef.pm\",\"t/CssRef.t\"]"
+   "code" : [
+      "lib/DDG/Fathead/CssRef.pm",
+      "t/CssRef.t"
+   ]
 }

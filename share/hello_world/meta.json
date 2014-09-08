@@ -1,15 +1,24 @@
 {
-   "topic" : "[\"geek\",\"programming\"]",
+   "topic" : [
+      "other / special interest",
+      "code & hacking"
+   ],
    "perl_module" : "DDG::Fathead::HelloWorld",
    "icon_url" : "/i/www.github.com.ico",
    "status" : "live",
    "name" : "HelloWorld",
    "example_query" : "hello world perl",
-   "other_queries" : "[\"javascript hello world\",\"hello world in c\"]",
+   "other_queries" : [
+      "javascript hello world",
+      "hello world in c"
+   ],
    "description" : "Hello World programs in many program languages",
    "repo" : "fathead",
    "src_name" : "GitHub",
    "id" : "hello_world",
    "dev_milestone" : "live",
-   "code" : "[\"lib/DDG/Fathead/HelloWorld.pm\",\"t/HelloWorld.t\"]"
+   "code" : [
+      "lib/DDG/Fathead/HelloWorld.pm",
+      "t/HelloWorld.t"
+   ]
 }

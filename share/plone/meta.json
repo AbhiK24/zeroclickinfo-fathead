@@ -1,15 +1,24 @@
 {
-   "topic" : "[\"sysadmin\"]",
+   "topic" : [
+      "code & hacking"
+   ],
    "perl_module" : "DDG::Fathead::Plone",
    "icon_url" : "https://duckduckgo.com/i/plone.org.ico",
    "status" : "live",
    "name" : "Plone",
    "example_query" : "plone collectivejqganalytics",
-   "other_queries" : "[\"collective.jqganalytics plone\",\"diy plone style\",\"plone ECQuiz\"]",
+   "other_queries" : [
+      "collective.jqganalytics plone",
+      "diy plone style",
+      "plone ECQuiz"
+   ],
    "description" : "Plone packages",
    "repo" : "fathead",
    "src_name" : "Plone",
    "id" : "plone",
    "dev_milestone" : "live",
-   "code" : "[\"lib/DDG/Fathead/Plone.pm\",\"t/Plone.t\"]"
+   "code" : [
+      "lib/DDG/Fathead/Plone.pm",
+      "t/Plone.t"
+   ]
 }

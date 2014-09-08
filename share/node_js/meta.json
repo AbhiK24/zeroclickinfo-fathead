@@ -1,15 +1,23 @@
 {
-   "topic" : "[\"programming\"]",
+   "topic" : [
+      "code & hacking"
+   ],
    "perl_module" : "DDG::Fathead::NodeJS",
    "icon_url" : "https://duckduckgo.com/i/nodejs.org.ico",
    "status" : "live",
    "name" : "NodeJS",
    "example_query" : "node http",
-   "other_queries" : "[\"hTTP\",\"node crypto\"]",
+   "other_queries" : [
+      "hTTP",
+      "node crypto"
+   ],
    "description" : "node.js reference",
    "repo" : "fathead",
    "src_name" : "NodeJS",
    "id" : "node_js",
    "dev_milestone" : "live",
-   "code" : "[\"lib/DDG/Fathead/NodeJS.pm\",\"t/NodeJS.t\"]"
+   "code" : [
+      "lib/DDG/Fathead/NodeJS.pm",
+      "t/NodeJS.t"
+   ]
 }
