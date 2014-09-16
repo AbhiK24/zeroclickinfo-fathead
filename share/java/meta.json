@@ -17,6 +17,11 @@
    "dev_milestone" : "live",
    "code" : [
       "lib/DDG/Fathead/Java.pm",
-      "t/Java.t"
+      "t/Java.t",
+      "share/java/README.txt",
+      "share/java/data.url",
+      "share/java/fetch.sh",
+      "share/java/meta.txt",
+      "share/java/parse.py"
    ]
 }

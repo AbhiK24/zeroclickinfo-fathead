@@ -19,6 +19,11 @@
    "dev_milestone" : "live",
    "code" : [
       "lib/DDG/Fathead/TclRef.pm",
-      "t/TclRef.t"
+      "t/TclRef.t",
+      "share/tcl_ref/README.md",
+      "share/tcl_ref/fetch.sh",
+      "share/tcl_ref/meta.txt",
+      "share/tcl_ref/parse.sh",
+      "share/tcl_ref/parse.tcl"
    ]
 }

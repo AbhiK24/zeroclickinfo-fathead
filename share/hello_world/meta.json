@@ -19,6 +19,13 @@
    "dev_milestone" : "live",
    "code" : [
       "lib/DDG/Fathead/HelloWorld.pm",
-      "t/HelloWorld.t"
+      "t/HelloWorld.t",
+      "share/hello_world/README.txt",
+      "share/hello_world/data.url",
+      "share/hello_world/fetch.sh",
+      "share/hello_world/meta.txt",
+      "share/hello_world/output.txt",
+      "share/hello_world/parse.py",
+      "share/hello_world/parse.sh"
    ]
 }

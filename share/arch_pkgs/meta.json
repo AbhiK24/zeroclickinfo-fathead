@@ -21,6 +21,12 @@
    "dev_milestone" : "live",
    "code" : [
       "lib/DDG/Fathead/ArchPkgs.pm",
-      "t/ArchPkgs.t"
+      "t/ArchPkgs.t",
+      "share/arch_pkgs/README.txt",
+      "share/arch_pkgs/fetch.sh",
+      "share/arch_pkgs/meta.txt",
+      "share/arch_pkgs/output.txt",
+      "share/arch_pkgs/parse.py",
+      "share/arch_pkgs/parse.sh"
    ]
 }

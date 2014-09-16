@@ -18,6 +18,11 @@
    "dev_milestone" : "live",
    "code" : [
       "lib/DDG/Fathead/RedisCommands.pm",
-      "t/RedisCommands.t"
+      "t/RedisCommands.t",
+      "share/redis_commands/README.txt",
+      "share/redis_commands/fetch.sh",
+      "share/redis_commands/meta.txt",
+      "share/redis_commands/parse.py",
+      "share/redis_commands/parse.sh"
    ]
 }

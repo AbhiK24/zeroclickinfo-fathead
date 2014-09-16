@@ -18,6 +18,12 @@
    "dev_milestone" : "live",
    "code" : [
       "lib/DDG/Fathead/UnixMan.pm",
-      "t/UnixMan.t"
+      "t/UnixMan.t",
+      "share/unix_man/README.txt",
+      "share/unix_man/fetch.sh",
+      "share/unix_man/meta.txt",
+      "share/unix_man/parse.pl",
+      "share/unix_man/parse.sh",
+      "share/unix_man/test.pl"
    ]
 }

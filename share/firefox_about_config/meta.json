@@ -20,6 +20,13 @@
    "dev_milestone" : "live",
    "code" : [
       "lib/DDG/Fathead/FirefoxAboutConfig.pm",
-      "t/FirefoxAboutConfig.t"
+      "t/FirefoxAboutConfig.t",
+      "share/firefox_about_config/README.txt",
+      "share/firefox_about_config/data.url",
+      "share/firefox_about_config/fetch.sh",
+      "share/firefox_about_config/meta.txt",
+      "share/firefox_about_config/output.txt",
+      "share/firefox_about_config/parse.py",
+      "share/firefox_about_config/parse.sh"
    ]
 }

@@ -18,6 +18,14 @@
    "dev_milestone" : "live",
    "code" : [
       "lib/DDG/Fathead/CssRef.pm",
-      "t/CssRef.t"
+      "t/CssRef.t",
+      "share/css_ref/README.txt",
+      "share/css_ref/fetch.sh",
+      "share/css_ref/jquery-1.5.min.js",
+      "share/css_ref/meta.txt",
+      "share/css_ref/output.txt",
+      "share/css_ref/package.json",
+      "share/css_ref/parse.js",
+      "share/css_ref/parse.sh"
    ]
 }
